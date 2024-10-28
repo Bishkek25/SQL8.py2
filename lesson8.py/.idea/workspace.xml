@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9faa6a22-ed89-4e51-a6e0-f4b2f07929f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/7урок2курс/lesson7.py/hm7.py2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL8.py2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Download Video.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HomeWork/Ftest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Menu KMP.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Microsoft Edge.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New folder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PotPlayer (64-bit).lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../The KMPlayer.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../elmira (Пользователь 1) - Chrome.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pasport.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../passport Шаршебек кызы Элмира.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../µTorrent.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Резюме Шаршенбек кызы Элмира.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Резюме Элмира Шаршенбек кызы (1) 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Фото.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/500 ошбка .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/Screenshot 2024-10-12 082426.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 1/SQLiteStudio.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 1/hw_1.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 1/Запросы SQL.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 2/hw_2.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 2/photo_5368550438594534426_m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 2/ДЗ 2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 5/Ошибка 400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 5/Ошибка 500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 5/Сдвиг расписания ДО.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 5/Сдвиг расписания ПОСЛЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 6/test3.side" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 6/негатив.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 6/негатив.side" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Элмира/ДЗ 6/позитив.side" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bishkek25&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bishkek25/homework6.py2&quot;,
+    &quot;accountId&quot;: &quot;8437b9c9-2660-4fe0-9b9d-c102c5917ff5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2nsyW3UPzMsgml33fpoGduWdKrP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.SQL8.py2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9faa6a22-ed89-4e51-a6e0-f4b2f07929f4" name="Changes" comment="" />
+      <created>1729776105838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729776105838</updated>
+      <workItem from="1729776107244" duration="112000" />
+      <workItem from="1729776248403" duration="2617000" />
+      <workItem from="1729778940791" duration="2369000" />
+      <workItem from="1729788372247" duration="150000" />
+      <workItem from="1729788612862" duration="4000" />
+      <workItem from="1729788628593" duration="12000" />
+      <workItem from="1729790237052" duration="408000" />
+      <workItem from="1729791475246" duration="35000" />
+      <workItem from="1729791774730" duration="40000" />
+      <workItem from="1729791954052" duration="40000" />
+      <workItem from="1729792047774" duration="9000" />
+      <workItem from="1729792369648" duration="25000" />
+      <workItem from="1729793576584" duration="16000" />
+      <workItem from="1730116315934" duration="298000" />
+      <workItem from="1730116886287" duration="485000" />
+      <workItem from="1730117385108" duration="2677000" />
+      <workItem from="1730120367114" duration="674000" />
+      <workItem from="1730121533076" duration="22000" />
+      <workItem from="1730121587226" duration="1512000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SQL8_py2_py$SQL8_py2.coverage" NAME="SQL8.py2 Coverage Results" MODIFIED="1730117769305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
